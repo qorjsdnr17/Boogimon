@@ -1,8 +1,5 @@
 # Boogimon
 
-# boogimon
-
-
 ## User
 
 1) 로그인 처리 ✔︎
